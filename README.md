@@ -19,11 +19,6 @@ A full-stack web application for managing book rentals and inventory, developed 
   - [User View](#user-view)
   - [Admin View](#admin-view)
 - [Requirements](#requirements)
-- [Installation and Setup](#installation-and-setup)
-- [Results and Findings](#results-and-findings)
-- [Conclusion](#conclusion)
-- [Acknowledgements](#acknowledgements)
-
 ---
 
 ## Executive Summary
